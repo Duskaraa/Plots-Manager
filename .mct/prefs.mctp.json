@@ -1,0 +1,210 @@
+{
+  "dataType": 1,
+  "variants": {},
+  "storageBasePath": "",
+  "contentsModified": "2025-12-11T22:27:16.525Z",
+  "dataStorageRelativePath": "/Plots Manager/",
+  "editPreference": 0,
+  "name": "Plots Manager",
+  "title": "Plots Manager",
+  "description": "Plots manager development",
+  "defaultBehaviorPackUniqueId": "871ddc3f-6e2c-4939-9aa4-77a703995c15",
+  "defaultResourcePackUniqueId": "8727cc5e-7996-4898-92c2-29d04073e588",
+  "defaultScriptModuleUniqueId": "61bf5ff0-3324-435f-aa2d-05f196961846",
+  "defaultDataUniqueId": "9eea52b5-192c-43be-814d-467080138c1a",
+  "focus": 0,
+  "items": [
+    {
+      "itemType": 59,
+      "variants": {},
+      "projectPath": "/package.json",
+      "storageType": 0,
+      "creationType": 1,
+      "tags": [],
+      "name": "package.json",
+      "isInWorld": false
+    },
+    {
+      "itemType": 58,
+      "variants": {},
+      "projectPath": "/tsconfig.json",
+      "storageType": 0,
+      "creationType": 0,
+      "tags": [],
+      "name": "tsconfig.json",
+      "isInWorld": false
+    },
+    {
+      "itemType": 109,
+      "variants": {},
+      "projectPath": "/behavior_packs/plot-mg/",
+      "storageType": 1,
+      "creationType": 0,
+      "tags": [],
+      "name": "aop_mobs",
+      "isInWorld": false
+    },
+    {
+      "itemType": 5,
+      "variants": {},
+      "projectPath": "/behavior_packs/plot-mg/manifest.json",
+      "storageType": 0,
+      "creationType": 0,
+      "tags": [
+        "behaviorpackmanifest"
+      ],
+      "name": "manifest.json",
+      "isInWorld": false
+    },
+    {
+      "itemType": 103,
+      "variants": {},
+      "projectPath": "/behavior_packs/plot-mg/pack_icon.png",
+      "storageType": 0,
+      "creationType": 0,
+      "tags": [],
+      "name": "pack_icon.png",
+      "isInWorld": false
+    },
+    {
+      "itemType": 110,
+      "variants": {},
+      "projectPath": "/resource_packs/plot-mg/",
+      "storageType": 1,
+      "creationType": 0,
+      "tags": [],
+      "name": "aop_mobs",
+      "isInWorld": false
+    },
+    {
+      "itemType": 14,
+      "variants": {},
+      "projectPath": "/resource_packs/plot-mg/manifest.json",
+      "storageType": 0,
+      "creationType": 0,
+      "tags": [
+        "resourcepackmanifest"
+      ],
+      "name": "manifest.json",
+      "isInWorld": false
+    },
+    {
+      "itemType": 103,
+      "variants": {},
+      "projectPath": "/resource_packs/plot-mg/pack_icon.png",
+      "storageType": 0,
+      "creationType": 0,
+      "tags": [],
+      "name": "pack_icon.png",
+      "isInWorld": false
+    },
+    {
+      "itemType": 13,
+      "variants": {},
+      "projectPath": "/scripts/main.ts",
+      "storageType": 0,
+      "creationType": 0,
+      "tags": [],
+      "name": "main.ts",
+      "isInWorld": false
+    },
+    {
+      "itemType": 121,
+      "variants": {},
+      "projectPath": "/.env",
+      "storageType": 0,
+      "creationType": 1,
+      "tags": [],
+      "name": ".env"
+    },
+    {
+      "itemType": 122,
+      "variants": {},
+      "projectPath": "/.prettierrc.json",
+      "storageType": 0,
+      "creationType": 1,
+      "tags": [],
+      "name": ".prettierrc.json"
+    },
+    {
+      "itemType": 119,
+      "variants": {},
+      "projectPath": "/just.config.ts",
+      "storageType": 0,
+      "creationType": 1,
+      "tags": [],
+      "name": "just.config.ts"
+    },
+    {
+      "itemType": 120,
+      "variants": {},
+      "projectPath": "/eslint.config.mjs",
+      "storageType": 0,
+      "creationType": 1,
+      "tags": [],
+      "name": "eslint.config.mjs"
+    },
+    {
+      "itemType": 75,
+      "variants": {},
+      "projectPath": "/.vscode/launch.json",
+      "storageType": 0,
+      "creationType": 1,
+      "tags": [],
+      "name": "launch.json"
+    },
+    {
+      "itemType": 77,
+      "variants": {},
+      "projectPath": "/.vscode/settings.json",
+      "storageType": 0,
+      "creationType": 1,
+      "tags": [],
+      "name": "settings.json"
+    },
+    {
+      "itemType": 76,
+      "variants": {},
+      "projectPath": "/.vscode/tasks.json",
+      "storageType": 0,
+      "creationType": 1,
+      "tags": [],
+      "name": "tasks.json"
+    },
+    {
+      "itemType": 78,
+      "variants": {},
+      "projectPath": "/.vscode/extensions.json",
+      "storageType": 0,
+      "creationType": 1,
+      "tags": [],
+      "name": "extensions.json"
+    }
+  ],
+  "projectFolderTitle": "PlotsManager",
+  "originalGitHubOwner": "microsoft",
+  "originalGitHubRepoName": "minecraft-samples",
+  "originalGitHubFolder": "/addon_starter/start",
+  "originalGalleryId": "addonStarter",
+  "creator": "Duskaraa",
+  "shortName": "plot-mg",
+  "track": 0,
+  "defaultBehaviorPackVersion": [
+    1,
+    0,
+    0
+  ],
+  "versionMajor": 1,
+  "versionMinor": 0,
+  "versionPatch": 0,
+  "defaultResourcePackVersion": [
+    1,
+    0,
+    0
+  ],
+  "previewImageBase64": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAAAYdEVYdFNvZnR3YXJlAFBhaW50Lk5FVCA1LjEuN4vW9zkAAAC2ZVhJZklJKgAIAAAABQAaAQUAAQAAAEoAAAAbAQUAAQAAAFIAAAAoAQMAAQAAAAIAAAAxAQIAEAAAAFoAAABphwQAAQAAAGoAAAAAAAAA8nYBAOgDAADydgEA6AMAAFBhaW50Lk5FVCA1LjEuNwADAACQBwAEAAAAMDIzMAGgAwABAAAAAQAAAAWgBAABAAAAlAAAAAAAAAACAAEAAgAEAAAAUjk4AAIABwAEAAAAMDEwMAAAAABCqaniuvll8QAABC1JREFUeF7t3T+O21YQB+DZtIGBpA8QXyG9jhDfIzDSa49g96lzCfkG9kVSp9jcQG5IIBjwkeLD05/d+T5gmsHD8FH2/qAlV2IEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALwB50H1kgdfIM8YXYd8wAvkGaPrNTkt7L+nTnnwBfKMuUbKs69xjKYfcgOoQwBAYQIAChMAUJgAAG4mX+kcfcXzsDB76xh53db6vV4WZp83rkrntaP3lOeOnt8j72WuY17Y6bgwe+u887qtGnnH5ya8A4DCBAAUJgCgMAEAhQkAKOxRAiBfAe2tr3kwXMFTo1qfW1i743NXjxIAwB0IAChMAEBhAgAKEwBQ2FNuXNk5NybPudHpfUT8kZuT1rm29tRav9dLRPyUmxHxJSI+5Obk2nvaO/+viPg1NzvtPefniPicmx2OEfEpNyet827tqbW+9bmF3yLix9yc/J4bk9YxXrV8e2SuUXwY6DJ57tb81u2tnmrJ6+Zq/VDtNfLDQHutHbtVN+FXAChMAEBhAgAKEwBQmADgUv8Nqqry61Dy9chXOkdf8XQX4DJ57uj5PfJe5noLdwHW5NnXOEaTdwBQmACAwgQAFCYAoDABAIUJAChMAEBhAgAKEwBQmACAwgQAFCYA2vLfZvfWh4UHSDytfDXWmjy7t/Je5rqnvJe51j7fsacOC7Mf4bzvSgBAYQIAChMAUJgAgMIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFxBlSejvuTGYD/nxoZjRDzn5o18W3kycet12nt+LaPmHyLilJud9h6bVyg/Knp07XVcmHGrWvvByWvnGiXP7Z0/6pHh5zy4Go8Gg8IEABQmAKAwAQCFVbkL0LrY8yU3On3LjcnfEfFvbk4XAT/l5mTUnlr+iYg/c3PSep1adyw+58bkmBuT1jm3/h9+jIh3uRkR7yPil9zs1Pq3a50br1C+8jv6CnCeO9chL5ys3QW4p7yXrWrJ67aq5bSw9rxyO7FHnr21pzfFrwBQmACAwgQAFCYAoDABAIUJgMeTr0Zv1S08NSrvZa68bi4ejACAwgQAFCYAoDABAIUJAChMANzH2hXxfOV8q+4p7+UR9sQOAgAKEwBQmACAwgQAFCYAoDABAIUJAChMAEBhAgAKEwBQmACAwgQAFCYAoDABAIUJAChMAEBhAuA+bvV13sDC99aPrr3Wng587TrlzfxPXjvXKHlu7/zDwozeKs07AChMAEBhAgAKEwBQmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4K74Ds5Oywx8xgeIAAAAASUVORK5CYII=",
+  "collapsedStoragePaths": [],
+  "gitHubReferences": [],
+  "preferredScriptLanguage": 0,
+  "scriptVersion": 1
+}

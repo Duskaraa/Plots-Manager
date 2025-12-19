@@ -1,0 +1,67 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Plots Manager",
+    "description": "Plots manager development",
+    "uuid": "871ddc3f-6e2c-4939-9aa4-77a703995c15",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      130
+    ]
+  },
+  "modules": [
+    {
+      "description": "Behavior",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "uuid": "51c179f3-d120-468a-aa28-f8fd4d2671a9",
+      "type": "data"
+    },
+    {
+      "description": "Script resources",
+      "language": "javascript",
+      "type": "script",
+      "uuid": "61bf5ff0-3324-435f-aa2d-05f196961846",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "8727cc5e-7996-4898-92c2-29d04073e588",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "beta"
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "mctoolsweb": [
+        "0.15.2"
+      ]
+    }
+  }
+}

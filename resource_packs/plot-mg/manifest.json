@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Plots Manager",
+    "description": "Plots manager development",
+    "uuid": "8727cc5e-7996-4898-92c2-29d04073e588",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 130]
+  },
+  "modules": [
+    {
+      "description": "Add-on Pack Resources",
+      "type": "resources",
+      "uuid": "7ff73d03-40e5-4407-9eb4-be6f038daf94",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "871ddc3f-6e2c-4939-9aa4-77a703995c15",
+      "version": [1, 0, 0]
+    }
+  ],
+  "capabilities": ["pbr"],
+  "metadata": {
+    "generated_with": {
+      "mctoolsweb": ["0.15.2"]
+    }
+  }
+}
